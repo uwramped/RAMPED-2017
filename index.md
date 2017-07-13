@@ -27,7 +27,7 @@ More details about each of these sessions will be available shortly.
 
 {% for file in site.static_files %}
     {% if file.path contains 'deliverables/summerPD/posters' %}
-        * ![{{file.basename}}]({{ site.baseurl }}{{ file.path }})
+            [{{file.basename}}]({{ site.baseurl }}{% link file.path %})
     {% endif %}
 {% endfor %}
 
