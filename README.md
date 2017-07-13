@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to UWRAMPED
 
-You can use the [editor on GitHub](https://github.com/uwramped/deliverables/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The **U**niversity of **W**yoming's **R**obotics, **A**pplied **M**athematics, **P**hysics, and **E**ngineering **D**esign was a year-long Math and Science Partnership (MSP) funded grant which provided 30+ teachers from across Wyoming (and New Hampshire) access to authentic uses of Computing within STEM fields. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# UWRAMPED PD Sessions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Six core sessions were offered during the two week summer PD. 
 
-```markdown
-Syntax highlighted code block
+## Week 1 Sessions
+1. Arduinos
+2. Raspberry Pi
+3. Robot Operating System 
 
-# Header 1
-## Header 2
-### Header 3
+## Week 2 Sessions
+1. NetLogo
+2. Space (Python)
+3. Virtual Reality
 
-- Bulleted
-- List
+More details about each of these sessions will be available shortly.
 
-1. Numbered
-2. List
+# Teacher Deliverables
 
-**Bold** and _Italic_ and `Code` text
+## Summer PD Delieverables
 
-[Link](url) and ![Image](src)
-```
+### Posters
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Short-form Lesson Plans
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uwramped/deliverables/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
