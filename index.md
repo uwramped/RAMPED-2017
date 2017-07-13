@@ -24,15 +24,16 @@ More details about each of these sessions will be available shortly.
 ## Summer PD Delieverables
 
 ### Posters
+
 {% for file in site.static_files %}
     {% if file.path contains 'deliverables/summerPD/posters' %}
-        * [{{file.basename}}]({{ site.baseurl }}{{ file.path }})
+        * ![{{file.basename}}]({{ site.baseurl }}{{ file.path }})
     {% endif %}
 {% endfor %}
 
 ### Short-form Lesson Plans
 {% for file in site.static_files %}
     {% if file.path contains 'deliverables/summerPD/lessons' %}
-        * [{{file.basename}}]({{ site.baseurl }}{{ file.path }})
+        * ![{{file.basename}}]({{ site.baseurl }}{{ file.path }})
     {% endif %}
 {% endfor %}
